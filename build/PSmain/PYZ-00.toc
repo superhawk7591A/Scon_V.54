@@ -1,0 +1,1 @@
+('C:\\Users\\Orwill\\PycharmProjects\\Scon V.54\\build\\PSmain\\PYZ-00.pyz', [])
